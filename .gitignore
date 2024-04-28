@@ -1,0 +1,15 @@
+dataset/unsplash-dataset-lite-latest/images
+__pycache__/
+wandb/
+logs/
+*.jpeg
+*.jpg
+*.pt
+*.png
+*.mov
+*.avi
+*.mp4
+dataset/webvid_10M/
+# dataset/unsplash-dataset-lite-latest/augmented
+# dataset/unsplash-dataset-lite-latest/examples
+inference_reward.py
