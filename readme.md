@@ -47,7 +47,6 @@ If you find our work useful, please consider citing:
   author={Hsieh, Cheng An and Chiang, Benjamin and Wang, Jennifer and Prabhudesai, Mihir},
   year={2024},
   url={https://github.com/rewardUniverse/reward-multiverse},
-  note={Accessed: 2024}
 }
 
 
